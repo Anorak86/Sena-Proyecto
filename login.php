@@ -34,7 +34,7 @@
 	</form>
 
 	<div>
-			<a href="inicio.php" class="btn btn-primary">Regresar</a>
+			<a href="inicio.php" class="btn btn-primary">Atras puta</a>
 		</div>
 		<div class="mensaje">
      <?php
